@@ -1,6 +1,6 @@
 ## wassuppp
 
-[![listenin history](https://doimages.nyc3.cdn.digitaloceanspaces.com/002Blog/0-BLOG-BANNERS/app_platform.png)](https://www.digitalocean.com/products/app-platform](https://imagelfm.art/image/v2/234FDD5A)
+[![listenin history](https://imagelfm.art/image/v2/234FDD5A)
 
 <!--
 **kyhrii/kyhrii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
