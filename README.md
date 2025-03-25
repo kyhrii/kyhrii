@@ -1,6 +1,6 @@
 ## wassuppp
 
-[![listenin history](https://imagelfm.art/image/v2/234FDD5A)
+[![listening history](https://imagelfm.art/image/v2/234FDD5A)](https://imagelfm.art/image/v2/234FDD5A)
 
 <!--
 **kyhrii/kyhrii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
