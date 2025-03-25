@@ -1,6 +1,6 @@
 ## wassuppp
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=jxtlhogsrcnulhuq3l5uciogi&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=jxtlhogsrcnulhuq3l5uciogi&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=jxtlhogsrcnulhuq3l5uciogi&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=jxtlhogsrcnulhuq3l5uciogi&redirect=true)
 
 [![listening history](https://imagelfm.art/image/v2/0D838129)](https://imagelfm.art/image/v2/0D838129)
 
